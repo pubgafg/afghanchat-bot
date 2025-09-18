@@ -1,0 +1,22 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@10.9.3
+2 info using node@v22.19.0
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/storage/emulated/0/Download/.npmrc
+5 silly config load:file:/data/data/com.termux/files/home/.npmrc
+6 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+7 verbose title npm install express mongoose cors dotenv bcryptjs jsonwebtoken
+8 verbose argv "install" "express" "mongoose" "cors" "dotenv" "bcryptjs" "jsonwebtoken" "--no-bin-links"
+9 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2025-09-18T08_57_41_349Z-
+10 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2025-09-18T08_57_41_349Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:1098907648 maxSize:274726912 maxEntrySize:137363456
+14 silly idealTree buildDeps
+15 silly fetch manifest next@14.1.5
+16 silly packumentCache full:https://registry.npmjs.org/next cache-miss
+17 http fetch GET https://registry.npmjs.org/next attempt 1 failed with ENOTFOUND
+18 http fetch GET https://registry.npmjs.org/next attempt 2 failed with ENOTFOUND
+19 http fetch GET https://registry.npmjs.org/next attempt 3 failed with ENOTFOUND
+20 silly fetch manifest react@18.2.0
+21 silly packumentCache full:https://registry.npmjs.org/react cache-miss

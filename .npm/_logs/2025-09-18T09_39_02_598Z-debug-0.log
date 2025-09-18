@@ -1,0 +1,26 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@10.9.3
+2 info using node@v22.19.0
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/storage/emulated/0/Download/vish-marketplace/backend/.npmrc
+5 silly config load:file:/data/data/com.termux/files/home/.npmrc
+6 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+7 verbose title npm install express cors dotenv
+8 verbose argv "install" "--no-bin-links" "express" "cors" "dotenv"
+9 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2025-09-18T09_39_02_598Z-
+10 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2025-09-18T09_39_02_598Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:1098907648 maxSize:274726912 maxEntrySize:137363456
+14 silly idealTree buildDeps
+15 silly fetch manifest express@*
+16 silly packumentCache full:https://registry.npmjs.org/express cache-miss
+17 http fetch GET https://registry.npmjs.org/express attempt 1 failed with ENOTFOUND
+18 http fetch GET https://registry.npmjs.org/express attempt 2 failed with ENOTFOUND
+19 http fetch GET https://registry.npmjs.org/express attempt 3 failed with ENOTFOUND
+20 http fetch GET 200 https://registry.npmjs.org/express 100322ms (cache stale)
+21 silly packumentCache full:https://registry.npmjs.org/express set size:796269 disposed:false
+22 silly fetch manifest cors@*
+23 silly packumentCache full:https://registry.npmjs.org/cors cache-miss
+24 http fetch GET https://registry.npmjs.org/cors attempt 1 failed with ENOTFOUND
+25 http fetch GET https://registry.npmjs.org/cors attempt 2 failed with ENOTFOUND
